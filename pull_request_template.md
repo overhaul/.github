@@ -41,7 +41,7 @@ Paste at least one screenshot of the changes working in your browser.
 If you cannot check off every item in this checklist, it is a good indication that this PR is not yet ready for submission. If a checklist item is not relevant to the type of change, it can be checked off anyway (an update to documentation may not require QA, for example).
 -->
 
-- [ ] I have comfirmed that I have not included commits from other non relevant tasks/branches in this PR
+- [ ] I have confirmed that I have not included commits from other non relevant tasks/branches in this PR
 - [ ] I have deployed this branch to a staging area and it has passed QA
 - [ ] I have confirmed that this PR satisfies all task requirements
 - [ ] I have confirmed that the console is free of errors and debug messages
