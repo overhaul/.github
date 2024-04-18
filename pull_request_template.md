@@ -1,5 +1,3 @@
-### ⚠ These items will all stay and be required until they're habit and then we can remove them ⚠ 
-
 # Summary
 
 Task Link: <!-- Paste a link to the task here -->
@@ -20,7 +18,8 @@ Examples of a bad summary:
 - CSS tweaks
 -->
 
-# Reason (maybe we can remove this)
+# Reason 
+### (maybe we can remove this one)
 
 <!-- 
 If applicable, provide motivation or context for the changes in this PR. In some cases the reason may be inferred from the summary, but it is important to note whether a change was made due to a client request, new requirements, uncovered during QA, etc.
@@ -30,7 +29,7 @@ Examples:
 - This feature was missed when building the initial requirements.
 -->
 
-# Checklist (let's start with the bare min, items that really help solve issues we've had)
+# Checklist
 
 <!--
 If you cannot check off every item in this checklist, it is a good indication that this PR is not yet ready for submission. If a checklist item is not relevant to the type of change, it can be checked off anyway (an update to documentation may not require QA, for example).
@@ -44,3 +43,5 @@ If you cannot check off every item in this checklist, it is a good indication th
 - [ ] I have double checked for typos, missing or broken links, syntax errors
 - [ ] I have defined the appropriate "sizes" attribute to any image tags that are included
 - [ ] I have updated the documentation to describe any unique features introduced or changed by this update
+
+### ⚠ These items will all stay and be required until they're habit and then we can remove them ⚠ 
