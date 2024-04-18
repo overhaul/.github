@@ -1,4 +1,4 @@
-# These items will all stay and be required until they're habit and then we can remove them. 
+### ⚠ These items will all stay and be required until they're habit and then we can remove them ⚠ 
 
 # Summary
 
