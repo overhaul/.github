@@ -1,3 +1,5 @@
+# These items will all stay and be required until they're habit and then we can remove them. 
+
 # Summary
 
 Task Link: <!-- Paste a link to the task here -->
@@ -18,29 +20,23 @@ Examples of a bad summary:
 - CSS tweaks
 -->
 
-# Reason
+# Reason (maybe we can remove this)
 
 <!-- 
 If applicable, provide motivation or context for the changes in this PR. In some cases the reason may be inferred from the summary, but it is important to note whether a change was made due to a client request, new requirements, uncovered during QA, etc.
 
 Examples:
-- The client requested that this feature should be disabled going forward.
 - This bug was uncovered in the QA process.
 - This feature was missed when building the initial requirements.
 -->
 
-# Screenshot
-
-<!--
-Paste at least one screenshot of the changes working in your browser. 
--->
-
-# Checklist
+# Checklist (let's start with the bare min, items that really help solve issues we've had)
 
 <!--
 If you cannot check off every item in this checklist, it is a good indication that this PR is not yet ready for submission. If a checklist item is not relevant to the type of change, it can be checked off anyway (an update to documentation may not require QA, for example).
 -->
 
+- [ ] I have done the overlay screenshot test mob and desktop
 - [ ] I have confirmed that I have not included commits from other non relevant tasks/branches in this PR
 - [ ] I have deployed this branch to a staging area and it has passed QA
 - [ ] I have confirmed that this PR satisfies all task requirements
