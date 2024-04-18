@@ -1,5 +1,4 @@
 # Summary
-
 Task Link: <!-- Paste a link to the task here -->
 
 <!-- 
@@ -34,7 +33,7 @@ Examples:
 <!--
 If you cannot check off every item in this checklist, it is a good indication that this PR is not yet ready for submission. If a checklist item is not relevant to the type of change, it can be checked off anyway (an update to documentation may not require QA, for example).
 -->
-
+- [ ] I have made sure there are no conflicts by pulling dev or main and merging it into my local branch
 - [ ] I have done the overlay screenshot test mob and desktop
 - [ ] I have confirmed that I have not included commits from other non relevant tasks/branches in this PR
 - [ ] I have deployed this branch to a staging area and it has passed QA
